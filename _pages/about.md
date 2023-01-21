@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fourth year PhD student in Statistics at North Carolina State University. Before coming to NC State, I received my Bachelor's degree from Shanghai University of Finance and Economics. I primarily work with Dr. [\[Eric C. Chi\]](https://www.ericchi.com/) (currently at Rice) on numerical optimization and Bayesian computation in statistical learning problems. I am also interested in semi-supervised/long-tail deep learning.  
+I am a fourth year PhD student in Statistics at North Carolina State University. Before coming to NC State, I received my Bachelor's degree from Shanghai University of Finance and Economics. I primarily work with Dr. [\[Eric C. Chi\]](https://www.ericchi.com/) (currently at Rice) on numerical optimization and Bayesian computation in statistical learning problems. I am also interested in semi-supervised/imbalanced deep learning.  
 
 
 # 🔥 News
@@ -57,5 +57,5 @@ I am a fourth year PhD student in Statistics at North Carolina State University.
 - *2022.07*, Bayesian Trend Filtering via Proximal Markov Chain Monte Carlo, ICCOPT 2022
 
 # 💻 Internships
-- *2022.05 - 2022.08*, Applied Scientist Inter, Amazon CoreAI
-- *2021.05 - 2021.08*, Applied Scientist Inter, Amazon Advertising
+- *2022.05 - 2022.08*, Applied Scientist Intern, Amazon CoreAI
+- *2021.05 - 2021.08*, Applied Scientist Intern, Amazon Advertising
