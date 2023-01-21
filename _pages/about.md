@@ -31,8 +31,9 @@ I am a fourth year PhD student in Statistics at North Carolina State University.
 
 **Bayesian Trend Filtering via Proximal Markov Chain Monte Carlo**
 **Qiang Heng**, Hua Zhou, Eric C. Chi
+*Journal of Computational and Graphical Statistics, in press*
 
-- A novel MCMC methodology which uses epigrahph priors and Moreau envelopes to sample from nonsmooth posterior density functions with applications in Bayesian trend filtering.  
+- A novel MCMC methodology which uses epigrahph priors and Moreau envelopes to sample from nonsmooth posterior density functions with applications in Bayesian trend filtering.  [paper](https://www.tandfonline.com/doi/full/10.1080/10618600.2023.2170089)[code](https://github.com/qhengncsu/ProxBTF.jl)[arXiv](https://arxiv.org/pdf/2201.00092)
 </div>
 </div>
 
