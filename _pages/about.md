@@ -41,18 +41,21 @@ I am a fourth year PhD student in Statistics at North Carolina State University.
 
 - **FreeMatch: Self-adaptive Thresholding for Semi-supervised Learning** [\[arXiv\]](https://arxiv.org/pdf/2205.07246.pdf) Yidong Wang, Hao Chen, **Qiang Heng**, Wenxin Hou, Yue Fan, Zhen Wu, Jindong Wang, Marios Savvides, Takahiro Shinozaki, Bhiksha Raj, Bernt Schiele, Xing Xie. *The Eleventh International Conference on Learning Representations (ICLR 2023), to appear*.
 
+# 📝 Preprints
+
+- **Tucker-L2E: Robust Low-rank Tensor Decomposition with the L2 Criterion** [\[arXiv\]](https://arxiv.org/pdf/2208.11806.pdf) **Qiang Heng**, Eric. C. Chi, Yufeng Liu. *In Revision*.
+
 # 📖 Educations
 - *2019.08 - present*, Ph.D. Statistics, North Carolina State University.
 - *2015.09 - 2019.06*, B.S. Statistics, Shanghai University of Finance and Economics.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2020.08* Gertrude Cox Achievement Award for outstanding PhD qualifier exam, North Carolina State University.
+- *2019.05* Academic Achievement Award, Shanghai University of Finance and Economics.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2022.07*, Bayesian Trend Filtering via Proximal Markov Chain Monte Carlo, ICCOPT 2022
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.05 - 2022.08*, Applied Scientist Inter, Amazon CoreAI
+- *2021.05 - 2021.08*, Applied Scientist Inter, Amazon Advertising
