@@ -50,8 +50,8 @@ I am a fourth year PhD student in Statistics at North Carolina State University.
 - *2015.09 - 2019.06*, B.S. Statistics, Shanghai University of Finance and Economics.
 
 # 🎖 Honors and Awards
-- *2020.08* Gertrude Cox Achievement Award for outstanding PhD qualifier exam, North Carolina State University.
-- *2019.05* Academic Achievement Award, Shanghai University of Finance and Economics.
+- *2020.08*, Gertrude Cox Achievement Award for outstanding PhD qualifier exam, North Carolina State University.
+- *2019.05*, Academic Achievement Award, Shanghai University of Finance and Economics.
 
 # 💬 Invited Talks
 - *2022.07*, Bayesian Trend Filtering via Proximal Markov Chain Monte Carlo, ICCOPT 2022
