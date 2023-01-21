@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fourth year PhD student in Statistics at North Carolina State University. Before coming to NC State, I received my Bachelor's degree from Shanghai University of Finance and Economics. I primarily work with Dr. Eric C. Chi (currently at Rice) on numerical optimization and Bayesian computation. I am also interested in semi-supervised/long-tail deep learning.  
+I am a fourth year PhD student in Statistics at North Carolina State University. Before coming to NC State, I received my Bachelor's degree from Shanghai University of Finance and Economics. I primarily work with Dr. [\[Eric C. Chi\]](https://www.ericchi.com/) (currently at Rice) on numerical optimization and Bayesian computation in statistical learning problems. I am also interested in semi-supervised/long-tail deep learning.  
 
 
 # 🔥 News
