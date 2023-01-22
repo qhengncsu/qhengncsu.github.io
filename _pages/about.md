@@ -43,7 +43,7 @@ I am a fourth year PhD student in Statistics at North Carolina State University.
 
 # 📝 Preprints
 
-- **Tucker-L2E: Robust Low-rank Tensor Decomposition with the L2 Criterion** [\[arXiv\]](https://arxiv.org/pdf/2208.11806.pdf) **Qiang Heng**, Eric. C. Chi, Yufeng Liu. *In Revision*.
+- **Tucker-L2E: Robust Low-rank Tensor Decomposition with the L2 Criterion** [\[arXiv\]](https://arxiv.org/pdf/2208.11806.pdf)[\[code\]](https://github.com/qhengncsu/TuckerL2E/) **Qiang Heng**, Eric. C. Chi, Yufeng Liu. *In Revision*.
 
 # 📖 Educations
 - *2019.08 - present*, Ph.D. Statistics, North Carolina State University.
