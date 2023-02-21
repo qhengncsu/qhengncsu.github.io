@@ -57,5 +57,4 @@ I am a fourth year PhD student in Statistics at North Carolina State University.
 - *2022.07*, Bayesian Trend Filtering via Proximal Markov Chain Monte Carlo, ICCOPT 2022
 
 # 💻 Internships
-- *2022.05 - 2022.08*, Applied Scientist Intern, Amazon CoreAI
-- *2021.05 - 2021.08*, Applied Scientist Intern, Amazon Advertising
+- *2022.05 - 2022.08*, Applied Scientist Intern, Amazon
