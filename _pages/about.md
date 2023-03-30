@@ -34,7 +34,7 @@ I am a fourth year PhD student in Statistics at North Carolina State University.
 
 **Qiang Heng**, Eric C. Chi, Yufeng Liu
 
-*Technometrics*
+*Technometrics, accepted*
 
 - A nonconvex, differentiable formulation of robust Tucker decomposition that exhibits stronger recovery capabilities in more challenging high-rank scenarios.  [\[arXiv\]](https://arxiv.org/pdf/2208.11806.pdf)[\[code\]](https://github.com/qhengncsu/TuckerL2E/)
 </div>
