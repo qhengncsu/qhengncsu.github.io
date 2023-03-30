@@ -21,10 +21,24 @@ I am a fourth year PhD student in Statistics at North Carolina State University.
 
 
 # 🔥 News
+- *2023.03*: &nbsp;🎉🎉 Our paper Robust Low-rank Tensor Decomposition with the L2 Criterion has been accepted by Technometrics. 
 - *2023.01*: &nbsp;🎉🎉 Our paper FreeMatch: Self-adaptive Thresholding for Semi-supervised Learning has been accepted by ICLR 2023. 
 - *2023.01*: &nbsp;🎉🎉 Our paper Bayesian Trend Filtering via Proximal Markov Chain Monte Carlo has been accepted by JCGS.  
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technometrics</div><img src='images/landscape.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Robust Low-rank Tensor Decomposition with the L2 Criterion**
+
+**Qiang Heng**, Eric C. Chi, Yufeng Liu
+
+*Technometrics*
+
+- A nonconvex, differentiable formulation of robust Tucker decomposition that exhibits stronger recovery capabilities in more challenging high-rank scenarios.  [\[arXiv\]](https://arxiv.org/pdf/2208.11806.pdf)[\[code\]](https://github.com/qhengncsu/TuckerL2E/)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCGS</div><img src='images/pbtf.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -43,7 +57,7 @@ I am a fourth year PhD student in Statistics at North Carolina State University.
 
 # 📝 Preprints
 
-- **Tucker-L2E: Robust Low-rank Tensor Decomposition with the L2 Criterion** [\[arXiv\]](https://arxiv.org/pdf/2208.11806.pdf)[\[code\]](https://github.com/qhengncsu/TuckerL2E/) **Qiang Heng**, Eric. C. Chi, Yufeng Liu. *In Revision*.
+- I have no preprints at this time.
 
 # 📖 Educations
 - *2019.08 - present*, Ph.D. Statistics, North Carolina State University.
