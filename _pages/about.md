@@ -68,7 +68,5 @@ I am a fourth year PhD student in Statistics at North Carolina State University.
 - *2019.05*, Academic Achievement Award, Shanghai University of Finance and Economics.
 
 # 💬 Invited Talks
-- *2022.07*, Bayesian Trend Filtering via Proximal Markov Chain Monte Carlo, ICCOPT 2022
-
-# 💻 Internships
-- *2022.05 - 2022.08*, Applied Scientist Intern, Amazon
+- *2023.07 Brown University*, A Unified Framework of Anderson Acceleration for Operator Splitting, Acceleration and Extrapolation Methods workshop at ICERM
+- *2022.07 Lehigh University*, Bayesian Trend Filtering via Proximal Markov Chain Monte Carlo, ICCOPT 2022
