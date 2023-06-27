@@ -25,7 +25,7 @@ I am a fourth year PhD student in Statistics at North Carolina State University.
 - *2023.01*: &nbsp;🎉🎉 Our paper FreeMatch: Self-adaptive Thresholding for Semi-supervised Learning has been accepted by ICLR 2023. 
 - *2023.01*: &nbsp;🎉🎉 Our paper Bayesian Trend Filtering via Proximal Markov Chain Monte Carlo has been accepted by JCGS.  
 
-# 📝 Publications 
+# 📝 Featured Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technometrics</div><img src='images/landscape.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
