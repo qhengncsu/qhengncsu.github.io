@@ -69,6 +69,6 @@ I am a fourth year PhD student in Statistics at North Carolina State University.
 - *2020.08*, Gertrude Cox Achievement Award for outstanding PhD qualifier exam, North Carolina State University.
 - *2019.05*, Academic Achievement Award, Shanghai University of Finance and Economics.
 
-# 💬 Invited Talks
+# 💬 Invited Talks and Poster Sessions
 - *2023.07 Brown University*, A Unified Framework of Anderson Acceleration for Operator Splitting, Acceleration and Extrapolation Methods workshop at ICERM
 - *2022.07 Lehigh University*, Bayesian Trend Filtering via Proximal Markov Chain Monte Carlo, ICCOPT 2022
