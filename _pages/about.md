@@ -23,7 +23,6 @@ I am a fourth year PhD student in Statistics at North Carolina State University.
 # 🔥 News
 - *2023.03*: &nbsp;🎉🎉 Our paper Robust Low-rank Tensor Decomposition with the L2 Criterion has been accepted by Technometrics. 
 - *2023.01*: &nbsp;🎉🎉 Our paper FreeMatch: Self-adaptive Thresholding for Semi-supervised Learning has been accepted by ICLR 2023. 
-- *2023.01*: &nbsp;🎉🎉 Our paper Bayesian Trend Filtering via Proximal Markov Chain Monte Carlo has been accepted by JCGS.  
 
 # 📝 Featured Publications 
 
@@ -70,5 +69,5 @@ I am a fourth year PhD student in Statistics at North Carolina State University.
 - *2019.05*, Academic Achievement Award, Shanghai University of Finance and Economics.
 
 # 💬 Presentations
-- *2023.07 Brown University*, A Unified Framework of Anderson Acceleration for Operator Splitting, Acceleration and Extrapolation Methods workshop at ICERM
-- *2022.07 Lehigh University*, Bayesian Trend Filtering via Proximal Markov Chain Monte Carlo, ICCOPT 2022
+- *2023.07 Brown University*, Anderson Accelerated Operator Splitting for Convex-nonconvex Regularization, *Poster Presentation*, Acceleration and Extrapolation Methods workshop at ICERM
+- *2022.07 Lehigh University*, Bayesian Trend Filtering via Proximal Markov Chain Monte Carlo, *Invited Talk*, ICCOPT 2022
