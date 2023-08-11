@@ -17,12 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fourth year PhD student in Statistics at North Carolina State University. Before coming to NC State, I received my Bachelor's degree from Shanghai University of Finance and Economics (SUFE). I primarily work with Dr. [Eric C. Chi](https://www.ericchi.com/) (currently at Rice) on numerical optimization and Bayesian computation in statistical learning problems. I am also interested in semi-supervised/imbalanced deep learning.  
+I am a final-year PhD student in Statistics at North Carolina State University. Before coming to NC State, I received my Bachelor's degree from Shanghai University of Finance and Economics (SUFE). During my PhD, I primarily worked with Dr. [Eric C. Chi](https://www.ericchi.com/) (currently at Rice) on numerical optimization and Bayesian computation in statistical learning problems. 
 
 
 # 🔥 News
-- *2023.03*: &nbsp;🎉🎉 Our paper Robust Low-rank Tensor Decomposition with the L2 Criterion has been accepted by Technometrics. 
-- *2023.01*: &nbsp;🎉🎉 Our paper FreeMatch: Self-adaptive Thresholding for Semi-supervised Learning has been accepted by ICLR 2023. 
+- *2023.06*: &nbsp; I will join Department of Computational Medicine, UCLA as a postdocral scholar this fall, primarily working with Dr. [Kenneth Lange](https://www.pnas.org/doi/10.1073/pnas.2308441120) and Dr. [Hua Zhou](https://hua-zhou.github.io/).
 
 # 📝 Featured Publications 
 
