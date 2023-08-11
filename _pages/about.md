@@ -55,10 +55,6 @@ I am a final-year PhD student in Statistics at North Carolina State University. 
 
 - **FreeMatch: Self-adaptive Thresholding for Semi-supervised Learning** [\[arXiv\]](https://arxiv.org/pdf/2205.07246.pdf) Yidong Wang, Hao Chen, **Qiang Heng**, Wenxin Hou, Yue Fan, Zhen Wu, Jindong Wang, Marios Savvides, Takahiro Shinozaki, Bhiksha Raj, Bernt Schiele, Xing Xie. *The Eleventh International Conference on Learning Representations (ICLR 2023), to appear*.
 
-# 📝 Preprints
-
-- I have no preprints at this time.
-
 # 📖 Educations
 - *2019.08 - present*, Ph.D. Statistics, North Carolina State University.
 - *2015.09 - 2019.06*, B.S. Statistics, Shanghai University of Finance and Economics.
