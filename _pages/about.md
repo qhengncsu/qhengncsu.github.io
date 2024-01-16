@@ -19,21 +19,21 @@ redirect_from:
 
 I am currently a postdocral scholar at Department of Computational Medicine, UCLA, working with Dr. [Kenneth Lange](https://www.pnas.org/doi/10.1073/pnas.2308441120) and Dr. [Hua Zhou](https://hua-zhou.github.io/). I received my Ph.D. from North Carolina State University, where I primarily worked with Dr. [Eric C. Chi](https://www.ericchi.com/) (currently at Rice) on numerical optimization in statistical learning problems. 
 
-# 🔥 Preprints & In preparation
+# 🔥 Preprints & In Preparation
 
-** Minimum Covariance Determinant: Spectral Embedding and Subset Size Determination
+** Minimum Covariance Determinant: Spectral Embedding and Subset Size Determination **
 
 **Qiang Heng**, Yichi Zhang, Kenneth Lange
 
 - A spectral approach to the minimum covariance determinant problem, coupled with a novel bootstrap procedure for estimating the number of inliers/outliers.
 
-** Anderson Accelerated Operator Splitting Methods for Convex-nonconvex Regularized Problems
+** Anderson Accelerated Operator Splitting Methods for Convex-nonconvex Regularized Problems **
 
 **Qiang Heng**, **Xiaoqian Liu**, Shiqian Ma, Eric C. Chi
 
 *manucript available upon request*
 
-Globally convergent type-II Anderson acceleration for several common splitting methods, with application in convex-nonconvex regularization.
+- Globally convergent type-II Anderson acceleration for several common splitting methods, with application in convex-nonconvex regularization.
 
 # 📝 Publications With Primary Role 
 

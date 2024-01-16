@@ -3,14 +3,14 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
+  - title: "Preprints & In Preparation"
+    url: "/#-Preprints & In Preparation"
 
-  - title: "Featured Publications"
-    url: "/#-featured-publications"
+  - title: "Publications with Primary Role"
+    url: "/#-Publications with Primary Role"
 
-  - title: "Other Publications"
-    url: "/#-other-publications"
+  - title: "Publications with Secondary Role"
+    url: "/#-Publications with Secondary Role"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
