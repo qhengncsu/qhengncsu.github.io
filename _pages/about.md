@@ -44,7 +44,7 @@ I am currently a postdocral scholar at Department of Computational Medicine, UCL
 
 **Qiang Heng**, Eric C. Chi, Yufeng Liu
 
-*Technometrics, in press*
+*Technometrics, 2023*
 
 - A nonconvex, differentiable formulation of robust Tucker decomposition that exhibits stronger recovery capabilities in more challenging high-rank scenarios.  [\[paper\]](https://www.tandfonline.com/doi/full/10.1080/00401706.2023.2200541)[\[code\]](https://github.com/qhengncsu/TuckerL2E/)[\[arXiv\]](https://arxiv.org/pdf/2208.11806.pdf)
 </div>
@@ -57,7 +57,7 @@ I am currently a postdocral scholar at Department of Computational Medicine, UCL
 
 **Qiang Heng**, Hua Zhou, Eric C. Chi
 
-*Journal of Computational and Graphical Statistics, in press*
+*Journal of Computational and Graphical Statistics, 2023*
 
 - A novel MCMC methodology which uses epigrahph priors and Moreau envelopes to sample from nonsmooth posterior density functions with applications in Bayesian trend filtering.  [\[paper\]](https://www.tandfonline.com/doi/full/10.1080/10618600.2023.2170089)[\[code\]](https://github.com/qhengncsu/ProxBTF.jl)[\[arXiv\]](https://arxiv.org/pdf/2201.00092)
 </div>
@@ -65,7 +65,7 @@ I am currently a postdocral scholar at Department of Computational Medicine, UCL
 
 # 📝 Publications with Secondary Role
 
-- **FreeMatch: Self-adaptive Thresholding for Semi-supervised Learning** [\[arXiv\]](https://arxiv.org/pdf/2205.07246.pdf) Yidong Wang, Hao Chen, **Qiang Heng**, Wenxin Hou, Yue Fan, Zhen Wu, Jindong Wang, Marios Savvides, Takahiro Shinozaki, Bhiksha Raj, Bernt Schiele, Xing Xie. *The Eleventh International Conference on Learning Representations (ICLR 2023), to appear*.
+- **FreeMatch: Self-adaptive Thresholding for Semi-supervised Learning** [\[arXiv\]](https://arxiv.org/pdf/2205.07246.pdf) Yidong Wang, Hao Chen, **Qiang Heng**, Wenxin Hou, Yue Fan, Zhen Wu, Jindong Wang, Marios Savvides, Takahiro Shinozaki, Bhiksha Raj, Bernt Schiele, Xing Xie. *The Eleventh International Conference on Learning Representations (ICLR 2023)*.
 
 - **Proximal MCMC for Bayesian Inference of Constrained and Regularized Estimation** [\[arXiv\]](https://arxiv.org/abs/2205.07378) Xinkai Zhou, **Qiang Heng**, Eric C. Chi, Hua Zhou. *The American Statistician (accepted, 2024+)*.
 
