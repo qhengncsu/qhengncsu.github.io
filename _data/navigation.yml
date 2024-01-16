@@ -4,13 +4,13 @@ main:
     url: "/#about-me"
 
   - title: "Preprints & In Preparation"
-    url: "/#-Preprints-&-In-Preparation"
+    url: "/#-preprints-&-in-preparation"
 
   - title: "Publications with Primary Role"
-    url: "/#-Publications-with-Primary-Role"
+    url: "/#-publications-with-primary-role"
 
   - title: "Publications with Secondary Role"
-    url: "/#-Publications-with-Secondary-Role"
+    url: "/#-publications-with-secondary-role"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
