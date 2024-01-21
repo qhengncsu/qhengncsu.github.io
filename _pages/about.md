@@ -65,7 +65,7 @@ I am currently a postdocral scholar at Department of Computational Medicine, UCL
 </div>
 </div>
 
-# 📝 Publications with Secondary Role
+# 📝 Publications with Supporting Role
 
 - **FreeMatch: Self-adaptive Thresholding for Semi-supervised Learning** [\[arXiv\]](https://arxiv.org/pdf/2205.07246.pdf) Yidong Wang, Hao Chen, **Qiang Heng**, Wenxin Hou, Yue Fan, Zhen Wu, Jindong Wang, Marios Savvides, Takahiro Shinozaki, Bhiksha Raj, Bernt Schiele, Xing Xie. *The Eleventh International Conference on Learning Representations (ICLR 2023)*.
 
