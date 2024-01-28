@@ -27,7 +27,7 @@ I am currently a postdocral scholar at Department of Computational Medicine, UCL
 
 *In preparation*
 
-- A spectral approach to the minimum covariance determinant problem, coupled with a novel bootstrap procedure for estimating the number of inliers/outliers.
+- A spectral approach to the minimum covariance determinant problem, coupled with a novel bootstrap procedure for estimating the number of inliers/outliers. [\[arXiv\]](https://arxiv.org/abs/2401.14359)
 
 **Anderson Accelerated Operator Splitting Methods for Convex-nonconvex Regularized Problems**
 
