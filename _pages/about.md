@@ -23,7 +23,7 @@ I am currently a postdocral scholar at Department of Computational Medicine, UCL
 
 **Minimum Covariance Determinant: Spectral Embedding and Subset Size Determination**
 
-**Qiang Heng**, Yichi Zhang, Kenneth Lange
+**Qiang Heng**, Kenneth Lange
 
 *In preparation*
 
