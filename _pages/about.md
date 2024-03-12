@@ -23,9 +23,9 @@ I am currently a postdocral scholar at Department of Computational Medicine, UCL
 
 **Minimum Covariance Determinant: Spectral Embedding and Subset Size Determination**
 
-**Qiang Heng**, Kenneth Lange
+**Qiang Heng**, Hui Shen, Kenneth Lange
 
-*In preparation*
+*Submitted*
 
 - A spectral approach to the minimum covariance determinant problem, coupled with a novel bootstrap procedure for estimating the number of inliers/outliers. [\[arXiv\]](https://arxiv.org/abs/2401.14359)
 
@@ -81,5 +81,6 @@ I am currently a postdocral scholar at Department of Computational Medicine, UCL
 - *2019.05*, Academic Achievement Award, Shanghai University of Finance and Economics.
 
 # 💬 Presentations
+- *2024.03 McGill University*, Minimum Covariance Determinant: Spectral Embedding and Subset Size Determination, *Invited Talk*, Statistics Seminar
 - *2023.07 Brown University*, Anderson Accelerated Operator Splitting for Convex-nonconvex Regularization, *Poster Presentation*, Acceleration and Extrapolation Methods workshop at ICERM
 - *2022.07 Lehigh University*, Bayesian Trend Filtering via Proximal Markov Chain Monte Carlo, *Invited Talk*, ICCOPT 2022
