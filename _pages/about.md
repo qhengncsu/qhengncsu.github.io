@@ -33,7 +33,7 @@ I am currently a postdocral scholar at Department of Computational Medicine, UCL
 
 **Qiang Heng**, **Xiaoqian Liu**, Shiqian Ma, Eric C. Chi
 
-*Manucript available upon request*
+*Request for manuscript*
 
 - Globally convergent type-II Anderson acceleration for several common splitting methods, with application in convex-nonconvex regularization.
 
