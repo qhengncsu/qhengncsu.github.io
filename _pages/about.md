@@ -36,6 +36,8 @@ Trimmed Squares Regression via Bootstrap**
 
 *To be submitted*
 
+` A bootstrap method for estimating h/n in least trimmed squares regression.
+
 **Anderson Accelerated Operator Splitting Methods for Convex-nonconvex Regularized Problems**
 
 **Qiang Heng**, **Xiaoqian Liu**, Shiqian Ma, Eric C. Chi
