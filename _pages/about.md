@@ -29,7 +29,7 @@ I am currently a postdoctoral scholar at Department of Computational Medicine, U
 
 - A spectral approach to the minimum covariance determinant problem, coupled with a novel bootstrap procedure for estimating the number of inliers/outliers. [\[arXiv\]](https://arxiv.org/abs/2401.14359)
 
-**Estimating the Proportion of Inliers in Least
+**Estimating h/n in Least
 Trimmed Squares Regression via Bootstrap**
 
 **Qiang Heng**, Kenneth Lange
