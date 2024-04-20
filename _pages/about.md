@@ -90,6 +90,7 @@ Trimmed Squares Regression via Bootstrap**
 - *2019.05*, Academic Achievement Award, Shanghai University of Finance and Economics.
 
 # 💬 Presentations
+- *2024.03 Nanjing Audit University*, Minimum Covariance Determinant: Spectral Embedding and Subset Size Determination, *Invited Talk*, Seminar
 - *2024.03 McGill University*, Minimum Covariance Determinant: Spectral Embedding and Subset Size Determination, *Invited Talk*, Statistics Seminar
 - *2023.07 Brown University*, Anderson Accelerated Operator Splitting for Convex-nonconvex Regularization, *Poster Presentation*, Acceleration and Extrapolation Methods workshop at ICERM
 - *2022.07 Lehigh University*, Bayesian Trend Filtering via Proximal Markov Chain Monte Carlo, *Invited Talk*, ICCOPT 2022
