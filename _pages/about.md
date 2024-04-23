@@ -84,11 +84,6 @@ Trimmed Squares Regression via Bootstrap**
 - *2019.08 - 2023.09*, Ph.D. Statistics, North Carolina State University.
 - *2015.09 - 2019.06*, B.S. Statistics, Shanghai University of Finance and Economics.
 
-# 🎖 Honors and Awards
-- *2023.07*, Travel Grant to Acceleration and Extrapolation Workshop at ICERM, Brown University 
-- *2020.08*, Gertrude Cox Achievement Award for outstanding PhD qualifier exam, North Carolina State University.
-- *2019.05*, Academic Achievement Award, Shanghai University of Finance and Economics.
-
 # 💬 Presentations
 - *2024.04 Nanjing Audit University*, Minimum Covariance Determinant: Spectral Embedding and Subset Size Determination, *Invited Talk*, Seminar
 - *2024.03 McGill University*, Minimum Covariance Determinant: Spectral Embedding and Subset Size Determination, *Invited Talk*, Statistics Seminar
