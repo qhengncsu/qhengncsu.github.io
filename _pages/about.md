@@ -78,7 +78,7 @@ I am currently a postdoctoral scholar at Department of Computational Medicine, U
 - **Proximal MCMC for Bayesian Inference of Constrained and Regularized Estimation** [\[arXiv\]](https://arxiv.org/abs/2205.07378) Xinkai Zhou, **Qiang Heng**, Eric C. Chi, Hua Zhou. *The American Statistician (accepted, 2024+)*.
 
 # 📖 Educations
-- *2019.08 - 2023.09*, Ph.D. Statistics, North Carolina State University.
+- *2019.08 - 2023.12*, Ph.D. Statistics, North Carolina State University.
 - *2015.09 - 2019.06*, B.S. Statistics, Shanghai University of Finance and Economics.
 
 # 💬 Presentations
