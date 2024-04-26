@@ -35,8 +35,6 @@ I am currently a postdoctoral scholar at Department of Computational Medicine, U
 
 *Working paper*
 
-` A bootstrap method for estimating h/n in least trimmed squares regression.
-
 **Anderson Accelerated Operator Splitting Methods for Convex-nonconvex Regularized Problems**
 
 **Qiang Heng**, **Xiaoqian Liu**, Shiqian Ma, Eric C. Chi
