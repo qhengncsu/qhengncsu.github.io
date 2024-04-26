@@ -29,12 +29,11 @@ I am currently a postdoctoral scholar at Department of Computational Medicine, U
 
 - A spectral approach to the minimum covariance determinant problem, coupled with a novel bootstrap procedure for estimating the number of inliers/outliers. [\[arXiv\]](https://arxiv.org/abs/2401.14359)
 
-**Estimating h/n in Least
-Trimmed Squares Regression via Bootstrap**
+**Trimmed GLM Estimation via Variance Stabilized Transformation**
 
 **Qiang Heng**, Kenneth Lange
 
-*To be submitted*
+*Working paper*
 
 ` A bootstrap method for estimating h/n in least trimmed squares regression.
 
@@ -42,7 +41,7 @@ Trimmed Squares Regression via Bootstrap**
 
 **Qiang Heng**, **Xiaoqian Liu**, Shiqian Ma, Eric C. Chi
 
-*Request for manuscript*
+*To be submitted*
 
 - Globally convergent type-II Anderson acceleration for several common splitting methods, with application in convex-nonconvex regularization.
 
