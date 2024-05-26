@@ -33,7 +33,7 @@ I am currently a postdoctoral scholar at Department of Computational Medicine, U
 
 **Qiang Heng**, Kenneth Lange
 
-*Working paper*
+*Submitted*
 
 **Anderson Accelerated Operator Splitting Methods for Convex-nonconvex Regularized Problems**
 
