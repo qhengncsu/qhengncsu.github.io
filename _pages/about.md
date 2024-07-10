@@ -17,16 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a postdoctoral scholar at Department of Computational Medicine, UCLA, working with Dr. [Kenneth Lange](https://www.pnas.org/doi/10.1073/pnas.2308441120) and Dr. [Hua Zhou](https://hua-zhou.github.io/). I received my Ph.D. from North Carolina State University, where I primarily worked with Dr. [Eric C. Chi](https://www.ericchi.com/) (currently at Rice) on numerical optimization in statistical learning problems. 
+I am currently a postdoctoral scholar at Department of Computational Medicine, UCLA, working with Dr. [Kenneth Lange](https://www.pnas.org/doi/10.1073/pnas.2308441120) and Dr. [Hua Zhou](https://hua-zhou.github.io/). I received my Ph.D. from North Carolina State University, where I primarily worked with Dr. [Eric C. Chi](https://www.ericchi.com/) (currently at Rice) on numerical optimization in statistical learning problems. I will be joining Department of Mathematics, South East University starting this fall.
 
 # 📝 Preprints & In Preparation
-**Accelerating Iterative Reweighted Least Squares with Majorization Minimization**
+**Supercharging Iterative Reweighted Least Squares with Majorization Minimization**
 
-**Qiang Heng**, Kenneth Lange
+**Qiang Heng**, Hua Zhou, Kenneth Lange
 
 *In prepartion*
 
-**Minimum Covariance Determinant: Spectral Embedding and Subset Size Determination**
+**High-dimensional Outlier Detection via Stability**
 
 **Qiang Heng**, Hui Shen, Kenneth Lange
 
