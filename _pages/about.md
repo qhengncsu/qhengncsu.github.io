@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a postdoctoral scholar at Department of Computational Medicine, UCLA, working with Dr. [Kenneth Lange](https://www.pnas.org/doi/10.1073/pnas.2308441120) and Dr. [Hua Zhou](https://hua-zhou.github.io/). I received my Ph.D. from North Carolina State University, where I primarily worked with Dr. [Eric C. Chi](https://www.ericchi.com/) (currently at Rice) on numerical optimization in statistical learning problems. I am recently quite interested in problems arising in statistical genetics and genomics. I will be joining Department of Mathematics, South East University as a tenure-track associate professor (副研究员) in 2024 fall/winter.
+I am currently a postdoctoral scholar at Department of Computational Medicine, UCLA, working with Dr. [Kenneth Lange](https://www.pnas.org/doi/10.1073/pnas.2308441120) and Dr. [Hua Zhou](https://hua-zhou.github.io/). I received my Ph.D. from North Carolina State University, where I primarily worked with Dr. [Eric C. Chi](https://www.ericchi.com/). I will be joining Department of Mathematics, South East University as a tenure-track associate professor (副研究员) in 2024 fall/winter.
 
 # 📝 Preprints & In Preparation
 **Efficient Regression Modelling via Iterative Redirected Least Squares**
