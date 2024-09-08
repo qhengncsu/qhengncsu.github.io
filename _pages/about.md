@@ -20,33 +20,29 @@ redirect_from:
 I am currently a postdoctoral scholar at Department of Computational Medicine, UCLA, working with Dr. [Kenneth Lange](https://www.pnas.org/doi/10.1073/pnas.2308441120) and Dr. [Hua Zhou](https://hua-zhou.github.io/). I received my Ph.D. from North Carolina State University, where I primarily worked with Dr. [Eric C. Chi](https://www.ericchi.com/). 
 
 # 📝 Preprints & In Preparation
-**Deweighting Weighted Least Squares with Majorization Minorization**
+**Taming High-dimensional Structural Regression with Majorization Minorization**
 
 **Qiang Heng**, Hua Zhou, Kenneth Lange
 
 *In prepartion*
 
-**High-dimensional Outlier Detection via Stability**
+**A Stability Framework for Parameter Selection int the MCD problem**
 
 **Qiang Heng**, Hui Shen, Kenneth Lange
 
-*Submitted*
-
-- A spectral approach to the minimum covariance determinant problem, coupled with a novel bootstrap procedure for estimating the number of inliers/outliers. [\[arXiv\]](https://arxiv.org/abs/2401.14359)
+*In Revision*
 
 **Bootstrap Estimation of the Proportion of Outliers in Robust Regression Models**
 
 **Qiang Heng**, Kenneth Lange
 
-*Submitted*
+*In Revision*
 
 **Anderson Accelerated Operator Splitting Methods for Convex-nonconvex Regularized Problems**
 
 **Qiang Heng**, **Xiaoqian Liu**, Shiqian Ma, Eric C. Chi
 
 *To be submitted*
-
-- Globally convergent type-II Anderson acceleration for several common splitting methods, with application in convex-nonconvex regularization.
 
 # 📝 Publications With Primary Role 
 
