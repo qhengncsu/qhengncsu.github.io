@@ -20,13 +20,13 @@ redirect_from:
 I am currently a postdoctoral scholar at Department of Computational Medicine, UCLA, working with Dr. [Kenneth Lange](https://www.pnas.org/doi/10.1073/pnas.2308441120) and Dr. [Hua Zhou](https://hua-zhou.github.io/). I received my Ph.D. from North Carolina State University, where I primarily worked with Dr. [Eric C. Chi](https://www.ericchi.com/). 
 
 # 📝 Preprints & In Preparation
-**Taming High-dimensional Structural Regression with Majorization Minorization**
+**Taming High-dimensional Structured Regression with Majorization Minorization**
 
 **Qiang Heng**, Hua Zhou, Kenneth Lange
 
 *In prepartion*
 
-**A Stability Framework for Parameter Selection int the MCD problem**
+**A Stability Framework for Parameter Selection int the Minimum Covariance Determinant problem**
 
 **Qiang Heng**, Hui Shen, Kenneth Lange
 
@@ -55,7 +55,7 @@ I am currently a postdoctoral scholar at Department of Computational Medicine, U
 
 *Technometrics, 2023*
 
-- A nonconvex, differentiable formulation of robust Tucker decomposition that exhibits stronger recovery capabilities in more challenging high-rank scenarios.  [\[paper\]](https://www.tandfonline.com/doi/full/10.1080/00401706.2023.2200541)[\[code\]](https://github.com/qhengncsu/TuckerL2E/)[\[arXiv\]](https://arxiv.org/pdf/2208.11806.pdf)
+- [\[paper\]](https://www.tandfonline.com/doi/full/10.1080/00401706.2023.2200541)[\[code\]](https://github.com/qhengncsu/TuckerL2E/)[\[arXiv\]](https://arxiv.org/pdf/2208.11806.pdf)
 </div>
 </div>
 
@@ -68,7 +68,7 @@ I am currently a postdoctoral scholar at Department of Computational Medicine, U
 
 *Journal of Computational and Graphical Statistics, 2023*
 
-- A novel MCMC methodology which uses epigrahph priors and Moreau envelopes to sample from nonsmooth posterior density functions with applications in Bayesian trend filtering.  [\[paper\]](https://www.tandfonline.com/doi/full/10.1080/10618600.2023.2170089)[\[code\]](https://github.com/qhengncsu/ProxBTF.jl)[\[arXiv\]](https://arxiv.org/pdf/2201.00092)
+- [\[code\]](https://github.com/qhengncsu/ProxBTF.jl)[\[arXiv\]](https://arxiv.org/pdf/2201.00092)
 </div>
 </div>
 
