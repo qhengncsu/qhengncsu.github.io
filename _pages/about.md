@@ -26,7 +26,7 @@ I am currently a postdoctoral scholar at Department of Computational Medicine, U
 
 *In prepartion*
 
-**A Stability Framework for Parameter Selection int the Minimum Covariance Determinant problem**
+**A Stability Framework for Parameter Selection in the Minimum Covariance Determinant problem**
 
 **Qiang Heng**, Hui Shen, Kenneth Lange
 
