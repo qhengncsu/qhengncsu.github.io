@@ -68,7 +68,7 @@ I am currently a postdoctoral scholar at Department of Computational Medicine, U
 
 *Journal of Computational and Graphical Statistics, 2023*
 
-- [\[code\]](https://github.com/qhengncsu/ProxBTF.jl)[\[arXiv\]](https://arxiv.org/pdf/2201.00092)
+- [\[paper\]](https://www.tandfonline.com/doi/full/10.1080/10618600.2023.2170089)[\[code\]](https://github.com/qhengncsu/ProxBTF.jl)[\[arXiv\]](https://arxiv.org/pdf/2201.00092)
 </div>
 </div>
 
