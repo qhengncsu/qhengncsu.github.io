@@ -20,11 +20,11 @@ redirect_from:
 I am currently a postdoctoral scholar at Department of Computational Medicine, UCLA, working with Dr. [Kenneth Lange](https://www.pnas.org/doi/10.1073/pnas.2308441120) and Dr. [Hua Zhou](https://hua-zhou.github.io/). I received my Ph.D. from North Carolina State University, where I primarily worked with Dr. [Eric C. Chi](https://www.ericchi.com/). 
 
 # 📝 Preprints & In Preparation
-**Taming High-dimensional Structured Regression with Majorization Minorization**
+**Majorization Minorization, Moreau Envelopes, and Deweighting Weighted Least Squares**
 
 **Qiang Heng**, Hua Zhou, Kenneth Lange
 
-*In prepartion*
+*To be submitted*
 
 **A Stability Framework for Parameter Selection in the Minimum Covariance Determinant Problem**
 
