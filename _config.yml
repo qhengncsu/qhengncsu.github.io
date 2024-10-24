@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Qiang Heng (衡强)"
-description              : "University of California, Los Angeles"
+description              : "Southeast University"
 repository               : "qhengncsu/qhengncsu.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Qiang Heng (衡强)"
   avatar           : "images/wife.jpg"
-  bio              : "University of California, Los Angeles"
-  location         : "Los Angeles, CA"
+  bio              : "Southeast University"
+  location         : "Nanjing"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=5gIq5o4AAAAJ&hl=en"
