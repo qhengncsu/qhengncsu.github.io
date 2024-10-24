@@ -22,12 +22,6 @@ Previously, I was a postdoctoral scholar at Department of Computational Medicine
 
 # 📝 Preprints & In Preparation
 
-**Double Majorization for Robust Low-tubal-rank Tensor Recovery**
-
-**Qiang Heng**
-
-*In Preparation*
-
 **Majorization Minorization, Moreau Envelopes, and Deweighting Weighted Least Squares**
 
 **Qiang Heng**, Hua Zhou, Kenneth Lange
