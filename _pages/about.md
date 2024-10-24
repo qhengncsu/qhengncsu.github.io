@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a postdoctoral scholar at Department of Computational Medicine, UCLA, working with Dr. [Kenneth Lange](https://www.pnas.org/doi/10.1073/pnas.2308441120) and Dr. [Hua Zhou](https://hua-zhou.github.io/). I received my Ph.D. from North Carolina State University, where I primarily worked with Dr. [Eric C. Chi](https://www.ericchi.com/). 
+I am currently a tenure-track associate professor (副研究员) at School of Mathematics at Southeast University in Nanjing, Jiangsu, China.
+Previously, I was a postdoctoral scholar at Department of Computational Medicine, UCLA, working with Dr. [Kenneth Lange](https://www.pnas.org/doi/10.1073/pnas.2308441120) and Dr. [Hua Zhou](https://hua-zhou.github.io/). Prior to that, I received my Ph.D. from North Carolina State University, where I primarily worked with Dr. [Eric C. Chi](https://www.ericchi.com/). My expertise lies in numerical optimization, and I often approach statistics from a computational perspective. Recently, I have developed an interest in various forms of statistical thinking, including stability and false discovery rate (FDR) control. Additionally, I am interested in modern approaches to large-scale statistical genetics.
 
 # 📝 Preprints & In Preparation
 
