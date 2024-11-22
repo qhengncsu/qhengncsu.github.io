@@ -20,7 +20,15 @@ redirect_from:
 I am currently a tenure-track associate researcher (副研究员) at School of Mathematics at Southeast University in Nanjing, Jiangsu, China.
 Previously, I was a postdoctoral scholar at Department of Computational Medicine, UCLA, working with Dr. [Kenneth Lange](https://www.pnas.org/doi/10.1073/pnas.2308441120) and Dr. [Hua Zhou](https://hua-zhou.github.io/). Prior to that, I received my Ph.D. from North Carolina State University, where I primarily worked with Dr. [Eric C. Chi](https://www.ericchi.com/). 
 
+Undergraduate and graduate students at Southeast University interested in doing a thesis with me are welcome to email me at heng.qiang6@gmail.com. I also welcome students to join my research group.
+
 # 📝 Preprints & In Preparation
+
+**Quantile LASSO at the Biobank Scale**
+
+**Qiang Heng**, Xiaoqian Liu
+
+*In Preparation*
 
 **Majorization Minorization, Moreau Envelopes, and Deweighting Weighted Least Squares**
 
