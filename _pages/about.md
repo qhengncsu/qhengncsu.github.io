@@ -41,7 +41,7 @@ Undergraduate and graduate students at Southeast University interested in doing 
 
 **Qiang Heng**, Hua Zhou, Kenneth Lange
 
-*To be submitted*
+*Under Review*
 
 **Anderson Accelerated Operator Splitting Methods for Convex-nonconvex Regularized Problems**
 
