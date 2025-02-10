@@ -45,7 +45,7 @@ Undergraduate and graduate students at Southeast University interested in doing 
 
 **Anderson Accelerated Operator Splitting Methods for Convex-nonconvex Regularized Problems**
 
-**Qiang Heng**, **Xiaoqian Liu**, Shiqian Ma, Eric C. Chi
+**Qiang Heng**, **Xiaoqian Liu**, Eric C. Chi
 
 *To be submitted*
 
