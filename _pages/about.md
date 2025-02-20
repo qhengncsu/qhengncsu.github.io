@@ -47,13 +47,13 @@ Undergraduate and graduate students at Southeast University interested in doing 
 
 **Qiang Heng**, **Xiaoqian Liu**, Eric C. Chi
 
-*To be submitted*
+*Under Review*
 
 **A Stability Framework for Parameter Selection in the Minimum Covariance Determinant Problem**
 
 **Qiang Heng**, Hui Shen, Kenneth Lange
 
-*In Revision*
+*Under Revision*
 
 **Bootstrap Estimation of the Proportion of Outliers in Robust Regression Models**
 
