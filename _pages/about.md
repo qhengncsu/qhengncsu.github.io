@@ -53,13 +53,13 @@ Undergraduate and graduate students at Southeast University interested in doing 
 
 **Qiang Heng**, Hui Shen, Kenneth Lange
 
-*Under Revision*
+*Accepted to Journal of Computational and Graphical Statistics (2025+)*
 
 **Bootstrap Estimation of the Proportion of Outliers in Robust Regression Models**
 
 **Qiang Heng**, Kenneth Lange
 
-*Accepted to Statistics and Computing*
+*Accepted to Statistics and Computing (2025)*
 
 # 📝 Publications With Primary Role 
 
