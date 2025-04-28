@@ -51,7 +51,7 @@ Undergraduate and graduate students at Southeast University interested in doing 
 
 # 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCGS</div><img src='images/landscape.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCGS</div><img src='images/breast.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **A Stability Framework for Parameter Selection in the Minimum Covariance Determinant Problem**
@@ -63,7 +63,7 @@ Undergraduate and graduate students at Southeast University interested in doing 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech</div><img src='images/breast.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech</div><img src='images/landscape.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Robust Low-rank Tensor Decomposition with the L2 Criterion**
@@ -91,9 +91,9 @@ Undergraduate and graduate students at Southeast University interested in doing 
 
 # 📝 Other Publications
 
-- **Bootstrap Estimation of the Proportion of Outliers in Robust Regression Models** [\[paper\]](https://link.springer.com/article/10.1007/s11222-024-10526-1) **Qiang Heng**, Kenneth Lange. **Statistics and Computing, 2025**.
+- **Bootstrap Estimation of the Proportion of Outliers in Robust Regression Models** [\[paper\]](https://link.springer.com/article/10.1007/s11222-024-10526-1) **Qiang Heng**, Kenneth Lange. *Statistics and Computing, 2025*.
 
-- **Proximal MCMC for Bayesian Inference of Constrained and Regularized Estimation** [\[arXiv\]](https://arxiv.org/abs/2205.07378) Xinkai Zhou, **Qiang Heng**, Eric C. Chi, Hua Zhou. *The American Statistician, 2024*.
+- **Proximal MCMC for Bayesian Inference of Constrained and Regularized Estimation** [\[paper\]](https://www.tandfonline.com/doi/full/10.1080/00031305.2024.2308821) Xinkai Zhou, **Qiang Heng**, Eric C. Chi, Hua Zhou. *The American Statistician, 2024*.
 
 - **FreeMatch: Self-adaptive Thresholding for Semi-supervised Learning** [\[arXiv\]](https://arxiv.org/pdf/2205.07246.pdf) Yidong Wang, Hao Chen, **Qiang Heng**, Wenxin Hou, Yue Fan, Zhen Wu, Jindong Wang, Marios Savvides, Takahiro Shinozaki, Bhiksha Raj, Bernt Schiele, Xing Xie. *The Eleventh International Conference on Learning Representations (ICLR 2023)*.
 
@@ -101,10 +101,3 @@ Undergraduate and graduate students at Southeast University interested in doing 
 # 📖 Educations
 - *2019.08 - 2023.12*, Ph.D. Statistics, North Carolina State University.
 - *2015.09 - 2019.06*, B.S. Statistics, Shanghai University of Finance and Economics.
-
-# 💬 Presentations
-- *2025.08 EcoStat 2025*, Majorization Minorization, Moreau Envelopes, and Deweighting Weighted Least Squares, *Invited Talk*
-- *2024.07 EcoStat 2024*,  A Stability Framework for Parameter Selection in the Minimum Covariance Determinant Problem, *Invited Talk*, *New Statistical Methods for Complex Data*
-- *2024.03 McGill University*, A Stability Framework for Parameter Selection in the Minimum Covariance Determinant Problem, *Invited Talk*, Statistics Seminar
-- *2023.07 Brown University*, Anderson Accelerated Operator Splitting for Convex-nonconvex Regularization, *Poster Presentation*, Acceleration and Extrapolation Methods workshop at ICERM
-- *2022.07 Lehigh University*, Bayesian Trend Filtering via Proximal Markov Chain Monte Carlo, *Invited Talk*, ICCOPT 2022
