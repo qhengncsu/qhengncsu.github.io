@@ -6,11 +6,11 @@ main:
   - title: "Preprints & In Preparation"
     url: "/#-preprints-&-in-preparation"
 
-  - title: "Publications with Primary Role"
-    url: "/#-publications-with-primary-role"
+  - title: "Selected Publications"
+    url: "/#-selected-publications"
 
-  - title: "Publications with Supporting Role"
-    url: "/#-publications-with-supporting-role"
+  - title: "Other Publications"
+    url: "/#-other-publications"
 
   - title: "Educations"
     url: "/#-educations"
