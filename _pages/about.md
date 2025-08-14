@@ -31,11 +31,17 @@ Undergraduate and graduate students at Southeast University interested in doing 
 
 *In Preparation*
 
-**Efficent Kernel Regularized Learning via Quadratic Majorization Minorization with Exrapolation**
+**Inertial Quadratic Majorization Minorization with Application to Kernel Regularized Learning**
 
 **Qiang Heng**, Caixing Wang
 
-*In Preparation*
+*Under Review*
+
+**Adaptive Downweighting of Outliers**
+
+**Qiang Heng**, Kenneth Lange
+
+*In preparation*
 
 **Tactics for Improving Least Squares**
 
