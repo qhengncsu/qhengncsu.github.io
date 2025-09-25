@@ -41,6 +41,8 @@ Undergraduate and graduate students at Southeast University interested in doing 
 
 **Caixing Wang**, **Qiang Heng**, Qi Kuang, Xingdong Feng
 
+*Under Review*
+
 **Inertial Quadratic Majorization Minorization with Application to Kernel Regularized Learning**
 
 **Qiang Heng**, Caixing Wang
