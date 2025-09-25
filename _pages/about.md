@@ -19,11 +19,17 @@ redirect_from:
 
 I am currently a tenure-track associate researcher (副研究员) at School of Mathematics at Southeast University in Nanjing, Jiangsu, China.
 Previously, I was a postdoctoral scholar at Department of Computational Medicine, UCLA, working with Dr. [Kenneth Lange](https://www.pnas.org/doi/10.1073/pnas.2308441120) and Dr. [Hua Zhou](https://hua-zhou.github.io/). Prior to that, I received my Ph.D. from North Carolina State University, where I primarily worked with Dr. [Eric C. Chi](https://www.ericchi.com/). 
-I am currently interested in statistics from a computational perspective, theory and practise for continuous convex/nonconvex optimization algorithms, and problems in modern large-scale genomic analyses.
+My work sits at the intersection of statistical methodology, numerical optimization, and computational genomics.
 
 Undergraduate and graduate students at Southeast University interested in doing a thesis with me are welcome to email me at heng.qiang6@gmail.com. 
 
 # 📝 Preprints & In Preparation
+
+**Discovering Heterogeneous Associations with Smoothed Quantile Regression**
+
+**Qiang Heng**,  Xiang Zhan
+
+*In Preparation*
 
 **Sparse Quantile Regression at the Biobank Scale**
 
@@ -31,17 +37,15 @@ Undergraduate and graduate students at Southeast University interested in doing 
 
 *In Preparation*
 
+**Improved Statistical Analysis for Spectral Algorithms under General Conditions: Optimality and Robustness**
+
+**Caixing Wang**, **Qiang Heng**, Qi Kuang, Xingdong Feng
+
 **Inertial Quadratic Majorization Minorization with Application to Kernel Regularized Learning**
 
 **Qiang Heng**, Caixing Wang
 
 *Under Review*
-
-**Adaptive Downweighting of Outliers**
-
-**Qiang Heng**, Kenneth Lange
-
-*In preparation*
 
 **Tactics for Improving Least Squares**
 
@@ -53,7 +57,7 @@ Undergraduate and graduate students at Southeast University interested in doing 
 
 **Qiang Heng**, **Xiaoqian Liu**, Eric C. Chi
 
-*Under Review*
+*Accepted to IEEE Open Journal of Signal Processing*
 
 # 📝 Selected Publications
 
