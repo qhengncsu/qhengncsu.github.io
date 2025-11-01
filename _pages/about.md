@@ -25,15 +25,15 @@ Undergraduate and graduate students at Southeast University interested in doing 
 
 # 📝 Preprints & In Preparation
 
-**Discovering Heterogeneous Associations with Smoothed Quantile Regression**
+**Discovering Heterogeneous Associations with Smoothed Quantile Regression and Saddle Point Approximation**
 
-**Qiang Heng**,  Xiang Zhan
+**Qiang Heng**,  Wenjian Bi, Xiang Zhan
 
 *In Preparation*
 
 **Sparse Quantile Regression at the Biobank Scale**
 
-**Qiang Heng**, Xiaoqian Liu, Xiang Zhan
+**Qiang Heng**,  Xiang Zhan
 
 *In Preparation*
 
@@ -54,12 +54,6 @@ Undergraduate and graduate students at Southeast University interested in doing 
 **Qiang Heng**, Hua Zhou, Kenneth Lange
 
 *Under Review*
-
-**Anderson Accelerated Operator Splitting Methods for Convex-nonconvex Regularized Problems**
-
-**Qiang Heng**, **Xiaoqian Liu**, Eric C. Chi
-
-*Accepted to IEEE Open Journal of Signal Processing*
 
 # 📝 Selected Publications
 
@@ -103,12 +97,13 @@ Undergraduate and graduate students at Southeast University interested in doing 
 
 # 📝 Other Publications
 
-- **Bootstrap Estimation of the Proportion of Outliers in Robust Regression Models** [\[paper\]](https://link.springer.com/article/10.1007/s11222-024-10526-1) **Qiang Heng**, Kenneth Lange. *Statistics and Computing, 2025*.
+- **Anderson Accelerated Operator Splitting Methods for Convex-nonconvex Regularized Problems** [\[paper\]](https://ieeexplore.ieee.org/abstract/document/11194222)[\[code\]](https://github.com/qhengncsu/AA_CNC) **Qiang Heng**, **Xiaoqian Liu**, Eric C. Chi. *IEEE Open Journal of Signal Processing, 2025*.
+
+- **Bootstrap Estimation of the Proportion of Outliers in Robust Regression Models** [\[paper\]](https://link.springer.com/article/10.1007/s11222-024-10526-1)[\[code\]](https://github.com/qhengncsu/StableMCD) **Qiang Heng**, Kenneth Lange. *Statistics and Computing, 2025*.
 
 - **Proximal MCMC for Bayesian Inference of Constrained and Regularized Estimation** [\[paper\]](https://www.tandfonline.com/doi/full/10.1080/00031305.2024.2308821) Xinkai Zhou, **Qiang Heng**, Eric C. Chi, Hua Zhou. *The American Statistician, 2024*.
 
 - **FreeMatch: Self-adaptive Thresholding for Semi-supervised Learning** [\[arXiv\]](https://arxiv.org/pdf/2205.07246.pdf) Yidong Wang, Hao Chen, **Qiang Heng**, Wenxin Hou, Yue Fan, Zhen Wu, Jindong Wang, Marios Savvides, Takahiro Shinozaki, Bhiksha Raj, Bernt Schiele, Xing Xie. *The Eleventh International Conference on Learning Representations (ICLR 2023)*.
-
 
 # 📖 Educations
 - *2019.08 - 2023.12*, Ph.D. Statistics, North Carolina State University.
