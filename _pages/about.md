@@ -27,13 +27,13 @@ Undergraduate and graduate students at Southeast University interested in doing 
 
 **Discovering Heterogeneous Associations with Smoothed Quantile Regression and Saddle Point Approximation**
 
-**Qiang Heng**,  Wenjian Bi, Xiang Zhan
+**Qiang Heng**, Woody Miao, He Xu, Xiang Zhan, Wenjian Bi
 
 *In Preparation*
 
-**Sparse Quantile Regression at the Biobank Scale**
+**Integrated Quantile Knockoffs**
 
-**Qiang Heng**,  Xiang Zhan
+**Qiang Heng**, Shiyang Ma, Xiang Zhan
 
 *In Preparation*
 
