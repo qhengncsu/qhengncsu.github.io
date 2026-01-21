@@ -27,13 +27,13 @@ Undergraduate and graduate students at Southeast University interested in doing 
 
 **Discovering Heterogeneous Associations with Smoothed Quantile Regression and Saddle Point Approximation**
 
-**Qiang Heng**, Woody Miao, He Xu, Xiang Zhan, Wenjian Bi
+Heng et al.
 
 *In Preparation*
 
 **Integrated Quantile Knockoffs**
 
-**Qiang Heng**, Shiyang Ma, Xiang Zhan
+Heng et al.
 
 *In Preparation*
 
@@ -41,7 +41,7 @@ Undergraduate and graduate students at Southeast University interested in doing 
 
 **Caixing Wang**, **Qiang Heng**, Qi Kuang, Xingdong Feng
 
-*Under Review*
+*major revision, Journal of American Statistical Association*
 
 **Inertial Quadratic Majorization Minorization with Application to Kernel Regularized Learning**
 
