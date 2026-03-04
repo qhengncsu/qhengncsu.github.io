@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a tenure-track associate researcher (副研究员) at School of Mathematics at Southeast University in Nanjing, Jiangsu, China.
+I am currently an associate researcher (副研究员) at School of Statistics and Data Science, Southeast University in Nanjing, Jiangsu, China.
 Previously, I was a postdoctoral scholar at Department of Computational Medicine, UCLA, working with Dr. [Kenneth Lange](https://www.pnas.org/doi/10.1073/pnas.2308441120) and Dr. [Hua Zhou](https://hua-zhou.github.io/). Prior to that, I received my Ph.D. from North Carolina State University, where I primarily worked with Dr. [Eric C. Chi](https://www.ericchi.com/). 
-My work sits at the intersection of statistical methodology, numerical optimization, and computational genomics.
+My current research interests include statistical genomics, numerical optimization, and computational biology.
 
 Undergraduate and graduate students at Southeast University interested in doing a thesis with me are welcome to email me at heng.qiang6@gmail.com. 
 
