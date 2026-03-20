@@ -53,7 +53,7 @@ Heng et al.
 
 **Qiang Heng**, Hua Zhou, Kenneth Lange
 
-*Under Review*
+*major revision, Statistical Science*
 
 # 📝 Selected Publications
 
