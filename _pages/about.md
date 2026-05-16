@@ -62,7 +62,7 @@ Caixing Wang, **Qiang Heng**, Qi Kuang, Xingdong Feng
 
 **Tactics for Improving Least Squares Estimation**
 
-**Qiang Heng**, Hui Shen, Kenneth Lange
+**Qiang Heng**, Hua Zhou, Kenneth Lange
 
 *Statistical Science (accepted, 2026+)*
 - [\[code\]](https://github.com/qhengncsu/MMDeweighting.jl)[\[arXiv\]](https://arxiv.org/abs/2501.02475)
