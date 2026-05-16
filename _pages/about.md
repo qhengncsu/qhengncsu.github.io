@@ -21,59 +21,73 @@ I am currently an associate researcher (副研究员) at School of Statistics an
 Previously, I was a postdoctoral scholar at Department of Computational Medicine, UCLA, working with Dr. [Kenneth Lange](https://www.pnas.org/doi/10.1073/pnas.2308441120) and Dr. [Hua Zhou](https://hua-zhou.github.io/). Prior to that, I received my Ph.D. from North Carolina State University, where I primarily worked with Dr. [Eric C. Chi](https://www.ericchi.com/). 
 My current research interests include statistical genomics, numerical optimization, and computational biology.
 
-Undergraduate and graduate students at Southeast University interested in doing a thesis with me are welcome to email me at heng.qiang6@gmail.com. 
+Undergraduate and graduate students at Southeast University interested in doing a thesis with me are welcome to email me at heng.qiang6@gmail.com.
 
 # 📝 Preprints & In Preparation
 
-**Discovering Heterogeneous Associations with Smoothed Quantile Regression and Saddle Point Approximation**
+1. **Discovering Heterogeneous Associations with Smoothed Quantile Regression and Saddle Point Approximation**  
+   Heng et al.  
+   *In Preparation*
 
-Heng et al.
+2. **Integrated Quantile Knockoffs**  
+   Heng et al.  
+   *In Preparation*
 
-*In Preparation*
+3. **An Interpretable and Scalable Framework for Evaluating Large Language Models**  
+   Xinhao Qu, **Qiang Heng**, Hao Zeng, Xiaoqian Liu  
+   *Under Review*
 
-**Integrated Quantile Knockoffs**
+4. **Improved Statistical Analysis for Spectral Algorithms under General Conditions: Optimality and Robustness**  
+   Caixing Wang, **Qiang Heng**, Qi Kuang, Xingdong Feng  
+   *Major revision, Journal of American Statistical Association*
 
-Heng et al.
-
-*In Preparation*
-
-**An Interpretable and Scalable Framework for Evaluating Large Language Models**
-
-Xinhao Qu, **Qiang Heng**, Hao Zeng, Xiaoqian Liu
-
-*Under Review*
-
-**Improved Statistical Analysis for Spectral Algorithms under General Conditions: Optimality and Robustness**
-
-Caixing Wang, **Qiang Heng**, Qi Kuang, Xingdong Feng
-
-*major revision, Journal of American Statistical Association*
-
-**Inertial Quadratic Majorization Minorization with Application to Kernel Regularized Learning**
-
-**Qiang Heng**, Caixing Wang
-
-*Under Review*
+5. **Inertial Quadratic Majorization Minorization with Application to Kernel Regularized Learning**  
+   **Qiang Heng**, Caixing Wang  
+   *Under Review*
 
 # 📝 Selected Publications
 
-- **Tactics for Improving Least Squares Estimation** [\[code\]](https://github.com/qhengncsu/MMDeweighting.jl)[\[arXiv\]](https://arxiv.org/abs/2501.02475) **Qiang Heng**, Hua Zhou, Kenneth Lange. *Statistical Science (accepted, 2026+)*.
+1. **Tactics for Improving Least Squares Estimation**  
+   **Qiang Heng**, Hua Zhou, Kenneth Lange  
+   *Statistical Science (accepted, 2026+)*  
+   [\[code\]](https://github.com/qhengncsu/MMDeweighting.jl) [\[arXiv\]](https://arxiv.org/abs/2501.02475)
 
-- **A Stability Framework for Parameter Selection in the Minimum Covariance Determinant Problem** [\[paper\]](https://www.tandfonline.com/doi/abs/10.1080/10618600.2025.2495780)[\[code\]](https://github.com/qhengncsu/StableMCD)[\[arXiv\]](https://arxiv.org/pdf/2401.14359) **Qiang Heng**, Hui Shen, Kenneth Lange. *Journal of Computational and Graphical Statistics, 2026*.
+2. **A Stability Framework for Parameter Selection in the Minimum Covariance Determinant Problem**  
+   **Qiang Heng**, Hui Shen, Kenneth Lange  
+   *Journal of Computational and Graphical Statistics (2026)*  
+   [\[paper\]](https://www.tandfonline.com/doi/abs/10.1080/10618600.2025.2495780) [\[code\]](https://github.com/qhengncsu/StableMCD) [\[arXiv\]](https://arxiv.org/pdf/2401.14359)
 
-- **Robust Low-rank Tensor Decomposition with the L2 Criterion** [\[paper\]](https://www.tandfonline.com/doi/full/10.1080/00401706.2023.2200541)[\[code\]](https://github.com/qhengncsu/TuckerL2E/)[\[arXiv\]](https://arxiv.org/pdf/2208.11806.pdf) **Qiang Heng**, Eric C. Chi, Yufeng Liu. *Technometrics, 2023*.
+3. **Robust Low-rank Tensor Decomposition with the L2 Criterion**  
+   **Qiang Heng**, Eric C. Chi, Yufeng Liu  
+   *Technometrics, 2023*  
+   [\[paper\]](https://www.tandfonline.com/doi/full/10.1080/00401706.2023.2200541) [\[code\]](https://github.com/qhengncsu/TuckerL2E/) [\[arXiv\]](https://arxiv.org/pdf/2208.11806.pdf)
 
-- **Bayesian Trend Filtering via Proximal Markov Chain Monte Carlo** [\[paper\]](https://www.tandfonline.com/doi/full/10.1080/10618600.2023.2170089)[\[code\]](https://github.com/qhengncsu/ProxBTF.jl)[\[arXiv\]](https://arxiv.org/pdf/2201.00092) **Qiang Heng**, Hua Zhou, Eric C. Chi. *Journal of Computational and Graphical Statistics, 2023*.
+4. **Bayesian Trend Filtering via Proximal Markov Chain Monte Carlo**  
+   **Qiang Heng**, Hua Zhou, Eric C. Chi  
+   *Journal of Computational and Graphical Statistics, 2023*  
+   [\[paper\]](https://www.tandfonline.com/doi/full/10.1080/10618600.2023.2170089) [\[code\]](https://github.com/qhengncsu/ProxBTF.jl) [\[arXiv\]](https://arxiv.org/pdf/2201.00092)
 
 # 📝 Other Publications
 
-- **Anderson Accelerated Operator Splitting Methods for Convex-nonconvex Regularized Problems** [\[paper\]](https://ieeexplore.ieee.org/abstract/document/11194222)[\[code\]](https://github.com/qhengncsu/AA_CNC) **Qiang Heng**, **Xiaoqian Liu**, Eric C. Chi. *IEEE Open Journal of Signal Processing, 2025*.
+- **Anderson Accelerated Operator Splitting Methods for Convex-nonconvex Regularized Problems**  
+  **Qiang Heng**, **Xiaoqian Liu**, Eric C. Chi  
+  *IEEE Open Journal of Signal Processing, 2025*  
+  [\[paper\]](https://ieeexplore.ieee.org/abstract/document/11194222) [\[code\]](https://github.com/qhengncsu/AA_CNC)
 
-- **Bootstrap Estimation of the Proportion of Outliers in Robust Regression Models** [\[paper\]](https://link.springer.com/article/10.1007/s11222-024-10526-1)[\[code\]](https://github.com/qhengncsu/StableMCD) **Qiang Heng**, Kenneth Lange. *Statistics and Computing, 2025*.
+- **Bootstrap Estimation of the Proportion of Outliers in Robust Regression Models**  
+  **Qiang Heng**, Kenneth Lange  
+  *Statistics and Computing, 2025*  
+  [\[paper\]](https://link.springer.com/article/10.1007/s11222-024-10526-1) [\[code\]](https://github.com/qhengncsu/StableMCD)
 
-- **Proximal MCMC for Bayesian Inference of Constrained and Regularized Estimation** [\[paper\]](https://www.tandfonline.com/doi/full/10.1080/00031305.2024.2308821) Xinkai Zhou, **Qiang Heng**, Eric C. Chi, Hua Zhou. *The American Statistician, 2024*.
+- **Proximal MCMC for Bayesian Inference of Constrained and Regularized Estimation**  
+  Xinkai Zhou, **Qiang Heng**, Eric C. Chi, Hua Zhou  
+  *The American Statistician, 2024*  
+  [\[paper\]](https://www.tandfonline.com/doi/full/10.1080/00031305.2024.2308821)
 
-- **FreeMatch: Self-adaptive Thresholding for Semi-supervised Learning** [\[arXiv\]](https://arxiv.org/pdf/2205.07246.pdf) Yidong Wang, Hao Chen, **Qiang Heng**, Wenxin Hou, Yue Fan, Zhen Wu, Jindong Wang, Marios Savvides, Takahiro Shinozaki, Bhiksha Raj, Bernt Schiele, Xing Xie. *The Eleventh International Conference on Learning Representations (ICLR 2023)*.
+- **FreeMatch: Self-adaptive Thresholding for Semi-supervised Learning**  
+  Yidong Wang, Hao Chen, **Qiang Heng**, Wenxin Hou, Yue Fan, Zhen Wu, Jindong Wang, Marios Savvides, Takahiro Shinozaki, Bhiksha Raj, Bernt Schiele, Xing Xie  
+  *The Eleventh International Conference on Learning Representations (ICLR 2023)*  
+  [\[arXiv\]](https://arxiv.org/pdf/2205.07246.pdf)
 
 # 📖 Educations
 - *2019.08 - 2023.12*, Ph.D. Statistics, North Carolina State University.
