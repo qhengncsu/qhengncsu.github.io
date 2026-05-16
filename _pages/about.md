@@ -25,44 +25,44 @@ Undergraduate and graduate students at Southeast University interested in doing 
 
 # 📝 Preprints & In Preparation
 
-1. **Discovering Heterogeneous Associations with Smoothed Quantile Regression and Saddle Point Approximation**  
+- **Discovering and Dissecting Heterogeneous Associations with Genome-wide Smoothed Quantile Regression**  
    Heng et al.  
    *In Preparation*
 
-2. **Integrated Quantile Knockoffs**  
+- **Integrated Quantile Knockoffs**  
    Heng et al.  
    *In Preparation*
 
-3. **An Interpretable and Scalable Framework for Evaluating Large Language Models**  
+- **An Interpretable and Scalable Framework for Evaluating Large Language Models**  
    Xinhao Qu, **Qiang Heng**, Hao Zeng, Xiaoqian Liu  
    *Under Review*
 
-4. **Improved Statistical Analysis for Spectral Algorithms under General Conditions: Optimality and Robustness**  
+- **Improved Statistical Analysis for Spectral Algorithms under General Conditions: Optimality and Robustness**  
    Caixing Wang, **Qiang Heng**, Qi Kuang, Xingdong Feng  
    *Major revision, Journal of American Statistical Association*
 
-5. **Inertial Quadratic Majorization Minorization with Application to Kernel Regularized Learning**  
+- **Inertial Quadratic Majorization Minorization with Application to Kernel Regularized Learning**  
    **Qiang Heng**, Caixing Wang  
    *Under Review*
 
 # 📝 Selected Publications
 
-1. **Tactics for Improving Least Squares Estimation**  
+- **Tactics for Improving Least Squares Estimation**  
    **Qiang Heng**, Hua Zhou, Kenneth Lange  
    *Statistical Science (accepted, 2026+)*  
    [\[code\]](https://github.com/qhengncsu/MMDeweighting.jl) [\[arXiv\]](https://arxiv.org/abs/2501.02475)
 
-2. **A Stability Framework for Parameter Selection in the Minimum Covariance Determinant Problem**  
+- **A Stability Framework for Parameter Selection in the Minimum Covariance Determinant Problem**  
    **Qiang Heng**, Hui Shen, Kenneth Lange  
-   *Journal of Computational and Graphical Statistics (2026)*  
+   *Journal of Computational and Graphical Statistics, 2026*  
    [\[paper\]](https://www.tandfonline.com/doi/abs/10.1080/10618600.2025.2495780) [\[code\]](https://github.com/qhengncsu/StableMCD) [\[arXiv\]](https://arxiv.org/pdf/2401.14359)
 
-3. **Robust Low-rank Tensor Decomposition with the L2 Criterion**  
+- **Robust Low-rank Tensor Decomposition with the L2 Criterion**  
    **Qiang Heng**, Eric C. Chi, Yufeng Liu  
    *Technometrics, 2023*  
    [\[paper\]](https://www.tandfonline.com/doi/full/10.1080/00401706.2023.2200541) [\[code\]](https://github.com/qhengncsu/TuckerL2E/) [\[arXiv\]](https://arxiv.org/pdf/2208.11806.pdf)
 
-4. **Bayesian Trend Filtering via Proximal Markov Chain Monte Carlo**  
+- **Bayesian Trend Filtering via Proximal Markov Chain Monte Carlo**  
    **Qiang Heng**, Hua Zhou, Eric C. Chi  
    *Journal of Computational and Graphical Statistics, 2023*  
    [\[paper\]](https://www.tandfonline.com/doi/full/10.1080/10618600.2023.2170089) [\[code\]](https://github.com/qhengncsu/ProxBTF.jl) [\[arXiv\]](https://arxiv.org/pdf/2201.00092)
