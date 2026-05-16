@@ -57,55 +57,13 @@ Caixing Wang, **Qiang Heng**, Qi Kuang, Xingdong Feng
 
 # 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">STS</div><img src='images/huber_lad_plot.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- **Tactics for Improving Least Squares Estimation** [\[code\]](https://github.com/qhengncsu/MMDeweighting.jl)[\[arXiv\]](https://arxiv.org/abs/2501.02475) **Qiang Heng**, Hua Zhou, Kenneth Lange. *Statistical Science (accepted, 2026+)*.
 
-**Tactics for Improving Least Squares Estimation**
+- **A Stability Framework for Parameter Selection in the Minimum Covariance Determinant Problem** [\[paper\]](https://www.tandfonline.com/doi/abs/10.1080/10618600.2025.2495780)[\[code\]](https://github.com/qhengncsu/StableMCD)[\[arXiv\]](https://arxiv.org/pdf/2401.14359) **Qiang Heng**, Hui Shen, Kenneth Lange. *Journal of Computational and Graphical Statistics, 2026*.
 
-**Qiang Heng**, Hua Zhou, Kenneth Lange
+- **Robust Low-rank Tensor Decomposition with the L2 Criterion** [\[paper\]](https://www.tandfonline.com/doi/full/10.1080/00401706.2023.2200541)[\[code\]](https://github.com/qhengncsu/TuckerL2E/)[\[arXiv\]](https://arxiv.org/pdf/2208.11806.pdf) **Qiang Heng**, Eric C. Chi, Yufeng Liu. *Technometrics, 2023*.
 
-*Statistical Science (accepted, 2026+)*
-- [\[code\]](https://github.com/qhengncsu/MMDeweighting.jl)[\[arXiv\]](https://arxiv.org/abs/2501.02475)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCGS</div><img src='images/breast.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**A Stability Framework for Parameter Selection in the Minimum Covariance Determinant Problem**
-
-**Qiang Heng**, Hui Shen, Kenneth Lange
-
-*Journal of Computational and Graphical Statistics (2026)*
-- [\[paper\]](https://www.tandfonline.com/doi/abs/10.1080/10618600.2025.2495780)[\[code\]](https://github.com/qhengncsu/StableMCD)[\[arXiv\]](https://arxiv.org/pdf/2401.14359)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech</div><img src='images/landscape.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Robust Low-rank Tensor Decomposition with the L2 Criterion**
-
-**Qiang Heng**, Eric C. Chi, Yufeng Liu
-
-*Technometrics, 2023*
-
-- [\[paper\]](https://www.tandfonline.com/doi/full/10.1080/00401706.2023.2200541)[\[code\]](https://github.com/qhengncsu/TuckerL2E/)[\[arXiv\]](https://arxiv.org/pdf/2208.11806.pdf)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCGS</div><img src='images/pbtf.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Bayesian Trend Filtering via Proximal Markov Chain Monte Carlo**
-
-**Qiang Heng**, Hua Zhou, Eric C. Chi
-
-*Journal of Computational and Graphical Statistics, 2023*
-
-- [\[paper\]](https://www.tandfonline.com/doi/full/10.1080/10618600.2023.2170089)[\[code\]](https://github.com/qhengncsu/ProxBTF.jl)[\[arXiv\]](https://arxiv.org/pdf/2201.00092)
-</div>
-</div>
+- **Bayesian Trend Filtering via Proximal Markov Chain Monte Carlo** [\[paper\]](https://www.tandfonline.com/doi/full/10.1080/10618600.2023.2170089)[\[code\]](https://github.com/qhengncsu/ProxBTF.jl)[\[arXiv\]](https://arxiv.org/pdf/2201.00092) **Qiang Heng**, Hua Zhou, Eric C. Chi. *Journal of Computational and Graphical Statistics, 2023*.
 
 # 📝 Other Publications
 
