@@ -69,9 +69,6 @@ Caixing Wang, **Qiang Heng**, Qi Kuang, Xingdong Feng
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech</div><img src='images/landscape.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCGS</div><img src='images/breast.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
