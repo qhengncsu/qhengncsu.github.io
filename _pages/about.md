@@ -37,9 +37,15 @@ Heng et al.
 
 *In Preparation*
 
+**An Interpretable and Scalable Framework for Evaluating Large Language Models**
+
+Xinhao Qu, **Qiang Heng**, Hao Zeng, Xiaoqian Liu
+
+*Under Review*
+
 **Improved Statistical Analysis for Spectral Algorithms under General Conditions: Optimality and Robustness**
 
-**Caixing Wang**, **Qiang Heng**, Qi Kuang, Xingdong Feng
+Caixing Wang, **Qiang Heng**, Qi Kuang, Xingdong Feng
 
 *major revision, Journal of American Statistical Association*
 
@@ -49,13 +55,22 @@ Heng et al.
 
 *Under Review*
 
-**Tactics for Improving Least Squares**
-
-**Qiang Heng**, Hua Zhou, Kenneth Lange
-
-*major revision, Statistical Science*
-
 # 📝 Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">STS</div><img src='images/huber_lad_plot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Tactics for Improving Least Squares Estimation**
+
+**Qiang Heng**, Hui Shen, Kenneth Lange
+
+*Statistical Science (accepted, 2026+)*
+- [\[code\]](https://github.com/qhengncsu/MMDeweighting.jl)[\[arXiv\]](https://arxiv.org/abs/2501.02475)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech</div><img src='images/landscape.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCGS</div><img src='images/breast.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -64,7 +79,7 @@ Heng et al.
 
 **Qiang Heng**, Hui Shen, Kenneth Lange
 
-*Journal of Computational and Graphical Statistics (2025+)*
+*Journal of Computational and Graphical Statistics (2026)*
 - [\[paper\]](https://www.tandfonline.com/doi/abs/10.1080/10618600.2025.2495780)[\[code\]](https://github.com/qhengncsu/StableMCD)[\[arXiv\]](https://arxiv.org/pdf/2401.14359)
 </div>
 </div>
