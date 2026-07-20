@@ -23,15 +23,12 @@ My current research interests include statistical genomics, numerical optimizati
 
 Undergraduate and graduate students at Southeast University interested in doing a thesis with me are welcome to email me at heng.qiang6@gmail.com.
 
-# 📝 Preprints & In Preparation
+# 📝 Preprints 
 
-- **Discovering and Dissecting Heterogeneous Associations with Genome-wide Smoothed Quantile Regression**  
+- **SPASQR applies smoothed quantile regression to detect heterogeneous genetic associations**  
    Heng et al.  
-   *In Preparation*
-
-- **Integrated Quantile Knockoffs**  
-   Heng et al.  
-   *In Preparation*
+   *submitted* 
+   [\[software site\]](https://qhengncsu.github.io/SPAsqr.github.io/)
 
 - **An Interpretable and Scalable Framework for Evaluating Large Language Models**  
    Xinhao Qu, **Qiang Heng**, Hao Zeng, Xiaoqian Liu  
