@@ -27,7 +27,7 @@ Undergraduate and graduate students at Southeast University interested in doing 
 
 - **SPASQR applies smoothed quantile regression to detect heterogeneous genetic associations**  
    Heng et al.  
-   *submitted* 
+   *Revision requested, Nature Communications*  
    [\[software site\]](https://qhengncsu.github.io/SPAsqr.github.io/)
 
 - **An Interpretable and Scalable Framework for Evaluating Large Language Models**  
@@ -36,11 +36,11 @@ Undergraduate and graduate students at Southeast University interested in doing 
 
 - **Improved Statistical Analysis for Spectral Algorithms under General Conditions: Optimality and Robustness**  
    Caixing Wang, **Qiang Heng**, Qi Kuang, Xingdong Feng  
-   *Major revision, Journal of American Statistical Association*
+   *Minor revision, Journal of American Statistical Association*
 
-- **Inertial Quadratic Majorization Minorization with Application to Kernel Regularized Learning**  
+- **Inertial Quadratic Majorization Minimization with Application to Kernel Regularized Learning**  
    **Qiang Heng**, Caixing Wang  
-   *Under Review*
+   *Reject with encouragement to resubmit, Journal of Machine Learning Research*
 
 # 📝 Selected Publications
 
