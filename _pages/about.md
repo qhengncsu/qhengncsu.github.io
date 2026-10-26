@@ -26,7 +26,7 @@ Undergraduate and graduate students at Southeast University interested in doing 
 # 📝 Preprints 
 
 - **SPASQR applies smoothed quantile regression to detect heterogeneous genetic associations**  
-   Heng et al.  
+   **Qiang Heng**, Lin Miao, He Xu, Dajiang Liu, Seunggeun Lee, Wenjian Bi, Xiang Zhan  
    *Revision requested, Nature Communications*  
    [\[software site\]](https://qhengncsu.github.io/SPAsqr.github.io/)
 
