@@ -69,7 +69,7 @@ Undergraduate and graduate students at Southeast University interested in doing 
 # 📝 Other Publications
 
 - **Anderson Accelerated Operator Splitting Methods for Convex-nonconvex Regularized Problems**  
-  **Qiang Heng**<sup>#&#42;</sup>, Xiaoqian Liu<sup>#</sup>, Shiqian Ma, Eric C. Chi  
+  **Qiang Heng**<sup>#&#42;</sup>, Xiaoqian Liu<sup>#</sup>, Eric C. Chi  
   *IEEE Open Journal of Signal Processing, 2025*  
   [\[paper\]](https://ieeexplore.ieee.org/abstract/document/11194222) [\[code\]](https://github.com/qhengncsu/AA_CNC)
 
