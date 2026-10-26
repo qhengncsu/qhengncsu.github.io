@@ -27,28 +27,28 @@ Undergraduate and graduate students at Southeast University interested in doing 
 
 <sup>#</sup> co-first authors; <sup>&#42;</sup> corresponding authors
 
-- **SPASQR applies smoothed quantile regression to detect heterogeneous genetic associations**  
+- **SPASQR Applies Smoothed Quantile Regression to Detect Heterogeneous Genetic Associations**  
    **Qiang Heng**<sup>#</sup>, Lin Miao<sup>#</sup>, He Xu, Dajiang Liu, Seunggeun Lee, Wenjian Bi<sup>&#42;</sup>, Xiang Zhan<sup>&#42;</sup>  
-   *Revision requested, Nature Communications*  
+   *Nature Communications, revision requested*  
    [\[software site\]](https://qhengncsu.github.io/SPAsqr.github.io/)
 
 - **An Interpretable and Scalable Framework for Evaluating Large Language Models**  
    Xinhao Qu, **Qiang Heng**, Hao Zeng, Xiaoqian Liu<sup>&#42;</sup>  
-   *Under Review*
+   *Under review*
 
 - **Improved Statistical Analysis for Spectral Algorithms under General Conditions: Optimality and Robustness**  
    Caixing Wang<sup>#</sup>, **Qiang Heng**<sup>#</sup>, Qi Kuang<sup>&#42;</sup>, Xingdong Feng<sup>&#42;</sup>  
-   *Minor revision, Journal of American Statistical Association*
+   *Journal of the American Statistical Association, minor revision*
 
 - **Inertial Quadratic Majorization Minimization with Application to Kernel Regularized Learning**  
    **Qiang Heng**, Caixing Wang<sup>&#42;</sup>  
-   *Reject with encouragement to resubmit, Journal of Machine Learning Research*
+   *Journal of Machine Learning Research, reject with encouragement to resubmit*
 
 # 📝 Selected Publications
 
 - **Tactics for Improving Least Squares Estimation**  
    **Qiang Heng**<sup>&#42;</sup>, Hua Zhou, Kenneth Lange  
-   *Statistical Science (accepted, 2026+)*  
+   *Statistical Science, accepted*  
    [\[code\]](https://github.com/qhengncsu/MMDeweighting.jl) [\[arXiv\]](https://arxiv.org/abs/2501.02475)
 
 - **A Stability Framework for Parameter Selection in the Minimum Covariance Determinant Problem**  
